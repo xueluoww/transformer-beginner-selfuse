@@ -1,0 +1,727 @@
+你好	hello
+下午好	good afternoon
+再见	goodbye
+谢谢	thank you
+不客气	you are welcome
+对不起	i am sorry
+请稍等	please wait
+很高兴认识你	nice to meet you
+我也很高兴认识你	nice to meet you too
+一路平安	have a safe trip
+我爱你	i love you
+我非常爱你	i love you very much
+我喜欢你	i like you
+我想你了	i miss you
+我理解你	i understand you
+我需要你	i need you
+我认识他	i know him
+我认识她	i know her
+这是我的朋友	this is my friend
+他是我的老师	he is my teacher
+我们是一家人	we are a family
+他们正在聊天	they are talking
+你好吗？	how are you?
+我很好	i am fine
+你叫什么名字？	what is your name?
+我叫小明	my name is xiaoming
+你来自哪里？	where are you from?
+我来自中国	i am from china
+你住在哪里？	where do you live?
+我住在北京	i live in beijing
+你多大了？	how old are you?
+我二十岁	i am 20 years old
+你会说英语吗？	can you speak english?
+我会说一点英语	i can speak a little english
+你明白了吗？	do you understand?
+我不知道	i do not know
+你在做什么？	what are you doing?
+我正在学习	i am studying
+我正在写代码	i am writing code
+我正在读书	i am reading a book
+我正在吃饭	i am eating
+我正在喝水	i am drinking water
+我正在听音乐	i am listening to music
+我正在看电影	i am watching a movie
+我正在休息	i am resting
+我准备睡觉	i am going to sleep
+你要去哪里？	where are you going?
+我要去学校	i am going to school
+我要回家	i am going home
+我们一起走吧	let us go together
+请打开门	please open the door
+请把灯打开	please turn on the light
+请把灯关掉	please turn off the light
+请给我一杯水	please give me a glass of water
+请帮我一下	please help me
+我可以帮助你	i can help you
+我想买这个	i want to buy this
+这个多少钱？	how much is this?
+这个十元	this is 10 yuan
+太贵了	it is too expensive
+可以便宜一点吗？	can it be cheaper?
+我喜欢这个颜色	i like this color
+我要两个	i want two
+今天星期几？	what day is it today?
+明天是星期二	tomorrow is tuesday
+昨天是星期日	yesterday was sunday
+现在几点？	what time is it?
+现在八点	it is 8 o'clock
+我早上七点起床	i get up at 7 in the morning
+我晚上十一点睡觉	i go to bed at 11 at night
+今天是九月二十四日	today is september 24
+新年快乐！	happy new year!
+生日快乐！	happy birthday!
+今天天气很好	the weather is nice today
+今天很热	it is hot today
+今天很冷	it is cold today
+外面下雨了	it is raining outside
+外面下雪了	it is snowing outside
+风很大	it is very windy
+夏天很热	summer is hot
+秋天很凉爽	autumn is cool
+冬天会下雪	it snows in winter
+我喜欢苹果	i like apples
+我不喜欢香蕉	i do not like bananas
+这杯咖啡很苦	this coffee is bitter
+茶还很热	the tea is still hot
+饭已经做好了	the meal is ready
+我饿了	i am hungry
+我渴了	i am thirsty
+你想吃什么？	what do you want to eat?
+我想吃米饭	i want to eat rice
+我想喝咖啡	i want to drink coffee
+请给我菜单	please give me the menu
+味道很好	it tastes good
+我吃饱了	i am full
+这是什么？	what is this?
+这是一本书	this is a book
+那是一张桌子	that is a table
+我的电脑在这里	my computer is here
+你的手机在那里	your phone is there
+钥匙在桌子上	the key is on the table
+书在书包里	the book is in the bag
+猫在椅子下面	the cat is under the chair
+狗在门外	the dog is outside the door
+房间很干净	the room is clean
+我有一个问题	i have a question
+请告诉我答案	please tell me the answer
+这个问题很简单	this question is easy
+这个问题有点难	this question is a little difficult
+我需要更多时间	i need more time
+我找到答案了	i found the answer
+我说错了	i was wrong
+我们再试一次	let us try again
+程序开始运行	the program starts running
+程序停止运行	the program stops running
+代码没有报错	the code has no error
+这里有一个错误	there is an error here
+模型正在训练	the model is training
+损失正在下降	the loss is decreasing
+数据已经加载	the data is loaded
+请保存模型	please save the model
+请加载模型	please load the model
+训练已经完成	training is complete
+早上好	good morning
+中午好	good afternoon
+晚上好	good evening
+晚安	good night
+好久不见	long time no see
+欢迎回来	welcome back
+很高兴见到你	nice to meet you
+明天见	see you tomorrow
+下次见	see you next time
+回头见	see you later
+一路顺风	have a safe trip
+祝你好运	good luck
+祝你今天愉快	have a nice day
+周末愉快	have a nice weekend
+新年快乐	happy new year
+生日快乐	happy birthday
+圣诞快乐	merry christmas
+谢谢你的帮助	thank you for your help
+非常感谢	thank you very much
+不用谢	you are welcome
+没关系	it does not matter
+对不起我迟到了	sorry i am late
+请原谅我	please forgive me
+打扰一下	excuse me
+请再说一遍	please say it again
+请说慢一点	please speak more slowly
+请大声一点	please speak louder
+我没有听清楚	i did not hear clearly
+我没有听懂	i did not understand
+你能解释一下吗	can you explain it
+这是什么意思	what does this mean
+这个怎么读	how do you read this
+这个怎么写	how do you write this
+你会说中文吗	can you speak chinese
+我会说一点中文	i can speak a little chinese
+你的英语很好	your english is very good
+我还在学习	i am still learning
+请给我一点时间	please give me some time
+请稍等一下	please wait a moment
+我马上回来	i will be right back
+别着急	do not worry
+慢慢来	take your time
+请坐	please sit down
+请进	please come in
+请跟我来	please follow me
+请看这里	please look here
+请听我说	please listen to me
+你先说	you go first
+让我想一想	let me think
+我想起来了	i remember now
+我忘记了	i forgot
+我不确定	i am not sure
+我明白了	i understand now
+我同意	i agree
+我不同意	i disagree
+你说得对	you are right
+我觉得也是	i think so too
+这听起来不错	that sounds good
+这是个好主意	this is a good idea
+我没有意见	i have no objection
+我们开始吧	let us begin
+我们继续吧	let us continue
+我们休息一下吧	let us take a break
+今天过得怎么样	how was your day
+我今天过得很好	i had a good day
+你最近怎么样	how have you been recently
+最近还不错	things have been good recently
+你在忙什么	what are you busy with
+我现在有点忙	i am a little busy now
+我现在有空	i am free now
+你有时间吗	do you have time
+我们聊一会儿吧	let us talk for a while
+我想和你谈谈	i want to talk with you
+发生什么事了	what happened
+一切都好吗	is everything all right
+一切都很好	everything is fine
+别担心我	do not worry about me
+照顾好自己	take good care of yourself
+注意安全	stay safe
+保持联系	keep in touch
+给我打电话	call me
+给我发消息	send me a message
+我稍后回复你	i will reply to you later
+我到了	i have arrived
+我在路上	i am on the way
+我快到了	i am almost there
+我在门口	i am at the door
+请开门	please open the door
+请关门	please close the door
+请打开窗户	please open the window
+请关上窗户	please close the window
+房间里很安静	the room is quiet
+房间里很亮	the room is bright
+房间里有点暗	the room is a little dark
+请打开灯	please turn on the light
+请关掉灯	please turn off the light
+空调开着	the air conditioner is on
+请把空调关掉	please turn off the air conditioner
+这里太热了	it is too hot here
+这里太冷了	it is too cold here
+我回家了	i am going home
+我刚到家	i just got home
+家里没有人	there is nobody at home
+晚饭准备好了	dinner is ready
+我们一起吃饭吧	let us eat together
+我来洗碗	i will wash the dishes
+请把桌子擦干净	please clean the table
+地板需要打扫	the floor needs cleaning
+我要整理房间	i need to tidy the room
+衣服已经洗好了	the clothes are washed
+衣服还没有干	the clothes are not dry yet
+我去洗澡了	i am going to take a shower
+我准备睡觉了	i am getting ready for bed
+我睡不着	i cannot fall asleep
+我昨晚睡得很好	i slept well last night
+我昨晚没有睡好	i did not sleep well last night
+闹钟响了	the alarm is ringing
+该起床了	it is time to get up
+我先刷牙	i will brush my teeth first
+我正在洗脸	i am washing my face
+我正在穿衣服	i am getting dressed
+我准备出门了	i am ready to go out
+别忘了带钥匙	do not forget the keys
+我把钥匙忘在家里了	i left the keys at home
+手机没电了	the phone is out of power
+我要给手机充电	i need to charge the phone
+网络断了	the internet is disconnected
+网络恢复了	the internet is back
+信号不太好	the signal is not very good
+声音太小了	the volume is too low
+声音太大了	the volume is too loud
+请把音量调低	please turn down the volume
+请把音量调高	please turn up the volume
+这是我的父亲	this is my father
+这是我的母亲	this is my mother
+这是我的哥哥	this is my older brother
+这是我的姐姐	this is my older sister
+这是我的弟弟	this is my younger brother
+这是我的妹妹	this is my younger sister
+我有一个幸福的家庭	i have a happy family
+我和家人住在一起	i live with my family
+我的父母很爱我	my parents love me very much
+我想念我的家人	i miss my family
+我们周末回家	we go home on weekends
+爷爷正在看报纸	grandfather is reading the newspaper
+奶奶正在做饭	grandmother is cooking
+孩子们正在玩耍	the children are playing
+宝宝睡着了	the baby is asleep
+我的朋友很友好	my friend is very friendly
+他是我最好的朋友	he is my best friend
+她是我的同学	she is my classmate
+我们认识很多年了	we have known each other for many years
+我很高兴认识你	i am glad to know you
+我相信你	i trust you
+我支持你	i support you
+我为你感到骄傲	i am proud of you
+我会陪着你	i will stay with you
+你不是一个人	you are not alone
+我需要你的建议	i need your advice
+谢谢你的理解	thank you for understanding
+谢谢你的耐心	thank you for your patience
+我很开心	i am very happy
+我有点难过	i am a little sad
+我很兴奋	i am excited
+我很紧张	i am nervous
+我很放松	i am relaxed
+我很生气	i am angry
+我感到害怕	i feel afraid
+我感到孤独	i feel lonely
+我有点失望	i am a little disappointed
+我充满希望	i am full of hope
+我今天心情很好	i am in a good mood today
+我今天心情不好	i am in a bad mood today
+这让我很开心	this makes me happy
+这让我很担心	this makes me worried
+不要难过	do not be sad
+不要害怕	do not be afraid
+不要生气	do not be angry
+你可以做到	you can do it
+再试一次	try again
+永远不要放弃	never give up
+相信自己	believe in yourself
+我会尽力的	i will do my best
+我需要休息	i need a rest
+我感觉好多了	i feel much better
+我真的很累	i am really tired
+今天辛苦了	you worked hard today
+我是一名学生	i am a student
+我是一名老师	i am a teacher
+我是一名程序员	i am a programmer
+我在大学学习	i study at university
+我正在学习数学	i am studying mathematics
+我正在学习英语	i am studying english
+我正在学习编程	i am learning programming
+我喜欢解决问题	i like solving problems
+这道题很简单	this problem is easy
+这道题很难	this problem is difficult
+我还没有做完	i have not finished yet
+我已经做完了	i have finished it
+答案是正确的	the answer is correct
+答案是错误的	the answer is wrong
+请检查你的答案	please check your answer
+请打开课本	please open the textbook
+请翻到下一页	please turn to the next page
+请把作业交上来	please hand in your homework
+我忘记带作业了	i forgot to bring my homework
+考试什么时候开始	when does the exam start
+考试下周开始	the exam starts next week
+我需要复习	i need to review
+我正在准备考试	i am preparing for the exam
+我通过了考试	i passed the exam
+我没有通过考试	i did not pass the exam
+今天有几节课	how many classes are there today
+今天有三节课	there are three classes today
+教室在二楼	the classroom is on the second floor
+图书馆很安静	the library is quiet
+我去图书馆看书	i go to the library to read
+这本书很有趣	this book is interesting
+我已经读完这本书了	i have finished reading this book
+请借给我一支笔	please lend me a pen
+我的笔没有墨水了	my pen is out of ink
+请在这里签名	please sign here
+把名字写在纸上	write your name on the paper
+我在办公室工作	i work in an office
+我今天要上班	i have to work today
+我今天不用上班	i do not have to work today
+会议九点开始	the meeting starts at nine
+会议已经结束了	the meeting is over
+我们需要讨论这个问题	we need to discuss this problem
+请发送这份文件	please send this file
+我已经收到邮件了	i have received the email
+我稍后查看邮件	i will check the email later
+这项任务很重要	this task is important
+我们按时完成了任务	we completed the task on time
+今天的工作很多	there is a lot of work today
+我需要提高效率	i need to improve efficiency
+请保存你的工作	please save your work
+文件保存在哪里	where is the file saved
+文件在这个文件夹里	the file is in this folder
+请创建一个新文件	please create a new file
+请删除这个空文件	please delete this empty file
+请复制这段文字	please copy this text
+请粘贴到这里	please paste it here
+撤销刚才的操作	undo the last action
+重新执行这个操作	redo this action
+程序正在编译	the program is compiling
+编译已经完成	compilation is complete
+程序运行成功	the program ran successfully
+程序运行失败	the program failed to run
+请查看错误信息	please check the error message
+这个变量没有定义	this variable is not defined
+这个函数返回一个张量	this function returns a tensor
+这个列表是空的	this list is empty
+这个字典包含十个元素	this dictionary contains ten elements
+数组的长度是多少	what is the length of the array
+张量的形状是什么	what is the shape of the tensor
+第一维是批次大小	the first dimension is the batch size
+最后一维是隐藏维度	the last dimension is the hidden dimension
+请打印这个变量	please print this variable
+循环执行了十次	the loop ran ten times
+条件不满足	the condition is not satisfied
+模型参数已经更新	the model parameters have been updated
+梯度已经清零	the gradients have been cleared
+损失变小了	the loss became smaller
+训练数据正在加载	the training data is loading
+这一轮训练结束了	this training epoch is complete
+模型需要更多数据	the model needs more data
+我正在调试代码	i am debugging the code
+我找到了问题	i found the problem
+问题已经解决了	the problem has been solved
+先让程序跑起来	make the program run first
+以后再优化性能	optimize the performance later
+早餐吃什么	what should we eat for breakfast
+我想吃面包	i want to eat bread
+我想喝牛奶	i want to drink milk
+午饭准备吃什么	what are we having for lunch
+晚饭吃米饭吧	let us have rice for dinner
+我喜欢吃面条	i like eating noodles
+我想吃饺子	i want to eat dumplings
+这碗汤很好喝	this soup tastes good
+这个苹果很甜	this apple is sweet
+这个柠檬很酸	this lemon is sour
+这道菜有点辣	this dish is a little spicy
+这道菜太咸了	this dish is too salty
+请少放一点糖	please add less sugar
+请不要放香菜	please do not add cilantro
+我要一杯热水	i would like a cup of hot water
+我要一杯咖啡	i would like a cup of coffee
+请给我一杯茶	please give me a cup of tea
+咖啡里不要加糖	do not add sugar to the coffee
+我喜欢绿茶	i like green tea
+水已经烧开了	the water is boiling
+食物已经凉了	the food has become cold
+请把食物加热	please heat the food
+冰箱里有鸡蛋	there are eggs in the refrigerator
+冰箱里没有牛奶	there is no milk in the refrigerator
+我们需要买菜	we need to buy groceries
+我想买一些水果	i want to buy some fruit
+香蕉多少钱一斤	how much are the bananas
+这个西瓜很大	this watermelon is very large
+这些草莓很新鲜	these strawberries are fresh
+我买了两瓶水	i bought two bottles of water
+请给我一个袋子	please give me a bag
+可以用手机支付吗	can i pay by phone
+我想用现金付款	i want to pay in cash
+我想用银行卡付款	i want to pay by bank card
+请给我收据	please give me the receipt
+这个价格太高了	this price is too high
+可以便宜一点吗	can it be a little cheaper
+我只是看看	i am just looking
+我决定买这个	i decided to buy this
+这个尺码太大了	this size is too large
+这个尺码太小了	this size is too small
+有其他颜色吗	are there other colors
+我可以试一下吗	can i try it on
+试衣间在哪里	where is the fitting room
+我想退掉这个	i want to return this
+商店几点关门	what time does the store close
+商店晚上九点关门	the store closes at nine in the evening
+现在几点了	what time is it now
+现在是早上七点	it is seven in the morning
+现在是中午十二点	it is twelve at noon
+现在是下午三点	it is three in the afternoon
+现在是晚上八点	it is eight in the evening
+今天是星期一	today is monday
+今天是星期二	today is tuesday
+今天是星期三	today is wednesday
+今天是星期四	today is thursday
+今天是星期五	today is friday
+今天是星期六	today is saturday
+今天是星期日	today is sunday
+明天是星期几	what day is tomorrow
+昨天是星期几	what day was yesterday
+今天几号	what is the date today
+今天是一号	today is the first
+这个月有三十天	this month has thirty days
+今年是哪一年	what year is this
+今年是二零二六年	this year is twenty twenty-six
+一月天气很冷	january is very cold
+二月有时会下雪	it sometimes snows in february
+三月春天来了	spring comes in march
+四月经常下雨	it often rains in april
+五月天气温暖	may is warm
+六月夏天开始了	summer begins in june
+七月非常炎热	july is very hot
+八月仍然很热	august is still hot
+九月秋天来了	autumn comes in september
+十月天气凉爽	october is cool
+十一月树叶落下	the leaves fall in november
+十二月冬天来了	winter comes in december
+今天是晴天	it is sunny today
+今天是阴天	it is cloudy today
+今天有雾	it is foggy today
+外面在下雨	it is raining outside
+外面在下雪	it is snowing outside
+雨下得很大	it is raining heavily
+雪下得很大	it is snowing heavily
+风越来越大	the wind is getting stronger
+雨已经停了	the rain has stopped
+太阳出来了	the sun has come out
+天空很蓝	the sky is blue
+天上有很多云	there are many clouds in the sky
+今天的温度是多少	what is the temperature today
+今天有二十五度	it is twenty-five degrees today
+明天会下雨吗	will it rain tomorrow
+请带一把雨伞	please bring an umbrella
+天气预报说明天晴朗	the forecast says it will be sunny tomorrow
+春天百花开放	flowers bloom in spring
+夏天白天很长	the days are long in summer
+秋天树叶变黄	the leaves turn yellow in autumn
+冬天夜晚很长	the nights are long in winter
+我喜欢春天	i like spring
+我不喜欢炎热的夏天	i do not like the hot summer
+秋天适合散步	autumn is good for walking
+冬天要穿厚衣服	wear thick clothes in winter
+我要去北京	i am going to beijing
+我要去上海	i am going to shanghai
+你想去哪里	where do you want to go
+我想去海边	i want to go to the seaside
+我想去爬山	i want to climb a mountain
+我们明天出发	we will leave tomorrow
+你准备好了吗	are you ready
+行李已经收拾好了	the luggage is packed
+别忘了带护照	do not forget your passport
+我的车票在哪里	where is my ticket
+我想买一张火车票	i want to buy a train ticket
+我想订一张机票	i want to book a plane ticket
+下一班车几点出发	when does the next bus leave
+火车十点出发	the train leaves at ten
+飞机晚点了	the plane is delayed
+航班已经取消	the flight has been cancelled
+车站在哪里	where is the station
+机场离这里远吗	is the airport far from here
+请带我去机场	please take me to the airport
+我要去火车站	i need to go to the railway station
+公共汽车来了	the bus is coming
+我们坐地铁吧	let us take the subway
+地铁站在前面	the subway station is ahead
+这是几号线	which subway line is this
+我应该在哪里换乘	where should i transfer
+请在下一站下车	please get off at the next stop
+我坐过站了	i missed my stop
+这辆车去市中心吗	does this bus go downtown
+请告诉我怎么走	please tell me how to get there
+一直往前走	go straight ahead
+在路口左转	turn left at the intersection
+在路口右转	turn right at the intersection
+银行在邮局旁边	the bank is next to the post office
+医院在街道对面	the hospital is across the street
+公园在学校后面	the park is behind the school
+超市在饭店前面	the supermarket is in front of the restaurant
+这里离那里很近	it is close from here to there
+这里离那里很远	it is far from here to there
+我们迷路了	we are lost
+让我看看地图	let me look at the map
+导航显示还有五公里	the navigation shows five kilometers remaining
+路上有点堵车	there is some traffic on the road
+请开慢一点	please drive more slowly
+请在这里停车	please stop here
+停车场在哪里	where is the parking lot
+这条路正在施工	this road is under construction
+前面的桥关闭了	the bridge ahead is closed
+我们走另一条路	we will take another road
+旅馆已经订好了	the hotel has been booked
+我想办理入住	i would like to check in
+我想办理退房	i would like to check out
+我的房间号是二零八	my room number is two zero eight
+房间里没有热水	there is no hot water in the room
+请帮我换一个房间	please help me change rooms
+早餐几点开始	what time does breakfast start
+请帮我保管行李	please keep my luggage for me
+这次旅行很愉快	this trip is very enjoyable
+我拍了很多照片	i took many photos
+风景非常美丽	the scenery is very beautiful
+我有点不舒服	i feel a little unwell
+我头疼	i have a headache
+我肚子疼	i have a stomachache
+我嗓子疼	i have a sore throat
+我发烧了	i have a fever
+我感冒了	i have a cold
+我一直在咳嗽	i keep coughing
+我需要看医生	i need to see a doctor
+医院在哪里	where is the hospital
+请叫救护车	please call an ambulance
+这是紧急情况	this is an emergency
+请帮助我	please help me
+我对花生过敏	i am allergic to peanuts
+我需要吃药	i need to take medicine
+一天吃两次药	take the medicine twice a day
+多喝一些水	drink more water
+早点休息	get some rest early
+你的身体怎么样	how is your health
+我身体很好	i am in good health
+我感觉有点累	i feel a little tired
+我的手受伤了	my hand is injured
+我的腿很疼	my leg hurts
+伤口需要清洗	the wound needs to be cleaned
+医生正在检查	the doctor is examining me
+检查结果正常	the test result is normal
+我明天再来	i will come again tomorrow
+请保持安静	please keep quiet
+禁止吸烟	no smoking
+小心地滑	beware of the slippery floor
+小心台阶	watch your step
+请拨打报警电话	please call the police
+附近有一家银行	there is a bank nearby
+我需要去邮局	i need to go to the post office
+包裹已经寄出	the package has been sent
+快递什么时候到	when will the delivery arrive
+我收到一个包裹	i received a package
+请把信放进信箱	please put the letter in the mailbox
+博物馆今天开放	the museum is open today
+动物园里有很多动物	there are many animals in the zoo
+公园里有一个湖	there is a lake in the park
+广场上有很多人	there are many people in the square
+电影院在商场里面	the cinema is inside the mall
+电影七点开始	the movie starts at seven
+我想买两张电影票	i want to buy two movie tickets
+洗手间在哪里	where is the restroom
+出口在左边	the exit is on the left
+入口在右边	the entrance is on the right
+电梯坏了	the elevator is broken
+我们走楼梯吧	let us take the stairs
+我住在城市里	i live in the city
+我的家乡很美	my hometown is beautiful
+村庄旁边有一条河	there is a river beside the village
+山顶上有一座塔	there is a tower on top of the mountain
+森林里有很多树	there are many trees in the forest
+海水非常清澈	the sea water is very clear
+沙滩上有很多贝壳	there are many shells on the beach
+我喜欢听音乐	i like listening to music
+我喜欢唱歌	i like singing
+我喜欢跳舞	i like dancing
+我喜欢画画	i like drawing
+我喜欢摄影	i like photography
+我喜欢看电影	i like watching movies
+我喜欢读小说	i like reading novels
+我喜欢写故事	i like writing stories
+我喜欢下棋	i like playing chess
+我喜欢打篮球	i like playing basketball
+我喜欢踢足球	i like playing football
+我喜欢打羽毛球	i like playing badminton
+我喜欢游泳	i like swimming
+我喜欢跑步	i like running
+我每天锻炼	i exercise every day
+我们去散步吧	let us go for a walk
+我周末骑自行车	i ride a bicycle on weekends
+比赛马上开始	the match will start soon
+我们队赢了	our team won
+我们队输了	our team lost
+比分是多少	what is the score
+这场比赛很精彩	this match is exciting
+请给我一张纸	please give me a piece of paper
+桌上有一本词典	there is a dictionary on the desk
+墙上挂着一幅画	there is a painting on the wall
+花瓶里有三朵花	there are three flowers in the vase
+盒子里面是什么	what is inside the box
+盒子里面是空的	the box is empty
+杯子里有一些水	there is some water in the cup
+门后面有一把伞	there is an umbrella behind the door
+椅子下面有一只猫	there is a cat under the chair
+鸟在树上唱歌	the bird is singing in the tree
+狗在院子里跑	the dog is running in the yard
+鱼在水里游	the fish is swimming in the water
+这件衣服是红色的	this piece of clothing is red
+天空是蓝色的	the sky is blue
+草地是绿色的	the grass is green
+香蕉是黄色的	the banana is yellow
+雪是白色的	snow is white
+煤是黑色的	coal is black
+我喜欢紫色	i like purple
+橙色很明亮	orange is bright
+这个圆很大	this circle is large
+那个正方形很小	that square is small
+三角形有三条边	a triangle has three sides
+这条线很长	this line is long
+这支铅笔很短	this pencil is short
+这个箱子很重	this box is heavy
+这个袋子很轻	this bag is light
+瓶子是满的	the bottle is full
+杯子是空的	the cup is empty
+门是开着的	the door is open
+窗户是关着的	the window is closed
+第一个答案是对的	the first answer is correct
+第二个答案是错的	the second answer is wrong
+总共有十个人	there are ten people in total
+一加一等于二	one plus one equals two
+十减三等于七	ten minus three equals seven
+五乘六等于三十	five times six equals thirty
+八除以二等于四	eight divided by two equals four
+一半等于百分之五十	one half equals fifty percent
+这个数字比那个大	this number is larger than that one
+这个数字比那个小	this number is smaller than that one
+两边的长度相等	the lengths of both sides are equal
+请测量这段距离	please measure this distance
+水深两米	the water is two meters deep
+这座楼有二十层	this building has twenty floors
+中秋节快乐	happy mid-autumn festival
+但愿人长久，千里共婵娟	may we live long and share the moon across great distances
+今天是中秋节	today is the mid-autumn festival
+中秋节是团圆的节日	the mid-autumn festival is a time for family reunion
+我们一家人团聚了	our whole family is reunited
+今晚的月亮很圆	the moon is full tonight
+今晚的月色真美	the moonlight is beautiful tonight
+我们一起赏月吧	let us admire the moon together
+大家坐在院子里赏月	everyone sits in the yard to admire the moon
+天上挂着一轮明月	a bright moon hangs in the sky
+月光照在窗前	the moonlight shines in front of the window
+我想和家人一起过中秋	i want to spend the mid-autumn festival with my family
+祝你和家人中秋快乐	wish you and your family a happy mid-autumn festival
+祝大家中秋节快乐	wish everyone a happy mid-autumn festival
+祝你阖家幸福	wish your whole family happiness
+祝你平安健康	wish you peace and good health
+祝我们长长久久	may we stay together for a long time
+千里共赏一轮明月	we admire the same bright moon from far apart
+远方的朋友也在看月亮	friends far away are also watching the moon
+我给家人打了电话	i called my family
+月亮让我想起故乡	the moon reminds me of my hometown
+每逢佳节倍思亲	we miss our family even more during festivals
+桌上放着一盘月饼	there is a plate of mooncakes on the table
+这个月饼是什么馅的	what filling is in this mooncake
+这是莲蓉月饼	this is a lotus seed paste mooncake
+这是豆沙月饼	this is a red bean paste mooncake
+这是蛋黄月饼	this is an egg yolk mooncake
+我喜欢吃月饼	i like eating mooncakes
+月饼很甜	mooncakes are sweet
+我们把月饼分给大家	we share the mooncakes with everyone
+妈妈切开了月饼	mother cut the mooncake
+桂花开了	the osmanthus flowers are blooming
+空气里有桂花的香味	the air carries the fragrance of osmanthus
+孩子们提着灯笼	the children are carrying lanterns
+灯笼在夜里发光	the lanterns glow at night
+我们猜灯谜	we guess lantern riddles
+这个灯谜很有趣	this lantern riddle is interesting
+中秋晚会开始了	the mid-autumn festival gala has begun
+我们一起听中秋故事	we listen to mid-autumn stories together
+嫦娥住在月宫里	chang'e lives in the moon palace
+玉兔在月亮上	the jade rabbit is on the moon
+后羿望着月亮	hou yi looks at the moon
+圆月象征团圆	the full moon symbolizes reunion
+愿所有思念都有回应	may every longing receive an answer
+愿远方的人平安归来	may those far away return safely
+愿我们年年相聚	may we reunite every year
+海上生明月，天涯共此时	the moon rises over the sea and we share this moment across the world
